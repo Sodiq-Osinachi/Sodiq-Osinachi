@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on: Data analytics projects across multiple banking channels, and research in machine learning and applied statistics.<br>👯 I’m looking to collaborate on: Data science, financial analytics, and backend automation projects.<br>🤝 I’m looking for help with: Advancing my machine learning expertise and building scalable analytics tools.<br>🌱 I’m currently learning: Machine learning, regression analysis, and backend development (FastAPI & C#).<br>💬 Ask me about: SQL, Python, data visualization, financial analytics, and research design.<br>⚡ Fun fact: I once turned a messy multi-database bank dataset into an automated reporting system that saved hours every week—and I enjoyed every bit of the puzzle-solving process.
+🔭 I’m currently working on: Data analytics and Data Engineer projects across multiple banking channels, and research in machine learning and applied statistics.<br>👯 I’m looking to collaborate on: Data science, financial analytics, and backend automation projects.<br>🤝 I’m looking for help with: Advancing my machine learning expertise and building scalable analytics tools.<br>🌱 I’m currently learning: Machine learning, regression analysis, and backend development (FastAPI & C#).<br>💬 Ask me about: SQL, Python, data visualization, financial analytics, and research design.<br>⚡ Fun fact: I once turned a messy multi-database bank dataset into an automated reporting system that saved hours every week—and I enjoyed every bit of the puzzle-solving process.
 
 
 ## 🌐 Socials:
